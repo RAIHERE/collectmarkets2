@@ -1,0 +1,10 @@
+# Polymarket Wallet Configuration
+# Format: name,address
+# Lines starting with # are comments
+#
+# Example:
+# myWallet,0x1234567890abcdef1234567890abcdef12345678
+# trader1,0xabcdef1234567890abcdef1234567890abcdef12
+#
+# Add your wallets below:
+example_wallet,0x0000000000000000000000000000000000000000
