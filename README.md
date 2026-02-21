@@ -35,7 +35,8 @@ Interactive menu-driven application for collecting and analyzing Polymarket trad
 
 ```bash
 # Clone or copy the project
-cd mcollect_clean
+git clone https://github.com/txbabaxyz/collectmarkets2.git
+cd collectmarkets2
 
 # Create virtual environment
 python3 -m venv venv
@@ -109,7 +110,7 @@ POLYMARKET COLLECTOR & ANALYZER
 ## Project Structure
 
 ```
-mcollect_clean/
+collectmarkets2/
 ├── collector.py          # Main application
 ├── wallets.txt           # Wallet addresses (name,address)
 ├── wallets.example.txt   # Example wallet configuration
